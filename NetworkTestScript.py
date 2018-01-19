@@ -44,7 +44,6 @@ def main(argv):
     net = Net.Network([794, 30, 10])
 
     if filename:
-        print filename
         try:
             image = load.load_custom_image(filename, filename[0])
         except:

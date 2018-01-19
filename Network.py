@@ -91,7 +91,7 @@ class Network(object):
         if not os.path.isdir('TestImages'):
             os.makedirs('TestImages')
 
-        plt.savefig('TestImages/test_idx_' + str(index) + '.png')
+        plt.savefig('Examples/test_idx_' + str(index) + '.jpg')
         plt.show()
 
         return 1
