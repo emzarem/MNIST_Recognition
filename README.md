@@ -11,3 +11,8 @@ This is my implementation of his MNIST classifier code showcased in his online b
 
 I have added a number of features in my implementation to make it more helpful for learning neural nets, including visualisation
 and the ability to use the classifier on your own supplied images.
+
+# Visualisation of Testing
+This implementation includes functionality to display test data in the following manner:
+![alt text](https://raw.githubusercontent.com/emzarem/MNIST_Recognition/master/Examples/test_idx_3538.jpg)
+
