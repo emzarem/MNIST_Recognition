@@ -1,0 +1,11 @@
+# ignore saved weights/biases
+*.npy
+
+# ignore test images
+*.png
+
+# ignore library stuff
+ls/
+
+# ignore compiled files
+*.pyc
