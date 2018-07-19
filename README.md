@@ -23,7 +23,7 @@ The input arguments were set up to simplify testing the network:
                      name of the file to be the correct number).
 ```
 
-# Visualisation of Testing
+# Visualization of Testing
 This implementation includes functionality to display test data by showing the determined probability of
 it being each possible number:
 ![alt text](https://raw.githubusercontent.com/emzarem/MNIST_Recognition/master/Examples/test_idx_3538.jpg)
